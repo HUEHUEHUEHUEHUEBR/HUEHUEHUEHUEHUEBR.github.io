@@ -4,7 +4,7 @@ title: "Markdown Test Page"
 tags: tag1 tag3
 ---
 
-## Source: [Markdown Test Page](https://github.com/fullpipe/markdown-test-page)
+## Source: [Markdown Test Page]
 
 # <a name="top"></a>Markdown Test Page
 
@@ -175,5 +175,3 @@ Sint ea anim ipsum ad commodo cupidatat do **exercitation** incididunt et minim 
 Incididunt in culpa cupidatat mollit cillum qui proident sit. In cillum aliquip incididunt voluptate magna amet cupidatat cillum pariatur sint aliqua est _enim **anim** voluptate_. Magna aliquip proident incididunt id duis pariatur eiusmod incididunt commodo culpa dolore sit. Culpa do nostrud elit ad exercitation anim pariatur non minim nisi **adipisicing sunt _officia_**. Do deserunt magna mollit Lorem commodo ipsum do cupidatat mollit enim ut elit veniam ea voluptate.
 
 [![Box](http://img.youtube.com/vi/qEuD6v1Y9fg/0.jpg)](http://www.youtube.com/watch?v=qEuD6v1Y9fg)
-
-Reprehenderit non eu quis in ad elit esse qui aute id [incididunt](#!) dolore cillum. Esse laboris consequat dolor anim exercitation tempor aliqua deserunt velit magna laboris. Culpa culpa minim duis amet mollit do quis amet commodo nulla irure.
